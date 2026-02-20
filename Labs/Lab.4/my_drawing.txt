@@ -1,0 +1,3 @@
+Rectangle(2,2,8,5)
+Circle(5,35,8)
+Triangle(14,5,20,10)
